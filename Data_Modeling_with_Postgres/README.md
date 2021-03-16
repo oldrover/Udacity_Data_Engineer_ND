@@ -66,5 +66,5 @@ start_time, hour, day, week, month, year, weekday
 
 ## How to run
 
-First run the file ```create_tables.py``` and then the file ```etl.py``` to read and process the 
+First run the file ```create_tables.py``` and then the file ```etl.py``` to read and process the files from **song_data** and **log_data**
 
